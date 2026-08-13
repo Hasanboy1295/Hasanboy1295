@@ -1,58 +1,49 @@
-<h1 align="center">👋 Hello! I'm Khasanboy</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack & AI Developer</b> — Building AI-powered SaaS, RAG pipelines & scalable web applications
-</p>
+<h1>👋 Hey! I'm Khasanboy</h1>
 
-<p align="center">
-  <a href="mailto:khasanboy.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/khasanboy1295"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Hasanboy1295"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<strong>Full Stack & AI Developer</strong>
+<br/>
+React ⚛️ • Next.js • NestJS • Node.js • TypeScript • Python
 
----
+<br/><br/>
 
-## 🚀 About Me
+<a href="https://github.com/Hasanboy1295">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Hasanboy1295?tab=repositories">Projects</a>
 
-- 👨‍💻 **Full Stack & AI Engineer** — end-to-end SaaS products
-- 🤖 Building **AI-powered apps**: RAG pipelines, LLM integrations, intelligent automation
-- 🧩 Strong in **React • Next.js • NestJS • Node.js • TypeScript • Python**
-- 🌍 Located in Seoul, South Korea 🇰🇷
-- 📈 Currently deep-diving into **LLM engineering & scalable architectures**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant code
+<br/><br/>
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nestjs,nodejs,express,vue,tailwind,html,css,mongodb,postgres,mysql,redis,prisma,docker,git,github,vercel,nginx,linux,vscode" />
-</p>
+## Languages and Tools
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,express,vue,tailwind,html,css,mongodb,postgres,mysql,redis,prisma,docker,git,github,gitlab,vercel,netlify,nginx,linux,postman,figma&perline=14" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasanboy1295&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanboy1295&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasanboy1295&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-## 🏆 Achievements
+<img src="https://github-readme-stats.vercel.app/api?username=Hasanboy1295&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanboy1295&layout=compact&theme=radical&hide_border=true" height="170"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasanboy1295&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+</div>
 
-## 🔥 Contribution Activity
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasanboy1295&theme=react-dark&hide_border=true" />
-</p>
+## Feel free to drop me a line
 
----
+<div align="left">
 
-<p align="center">
-  <b>Let's build something amazing together!</b> 🚀
-</p>
+<a href="https://github.com/Hasanboy1295">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/Hasanboy1295?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-VIEW%20ALL-5E6AD2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hasanboy1295&style=flat&label=visitors" alt="visitors" />
+
+</div>
