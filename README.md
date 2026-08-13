@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalomu alaykum! I'm Khasanboy</h1>
+<h1 align="center">👋 Hello! I'm Khasanboy</h1>
 
 <p align="center">
   <b>Full Stack & AI Developer</b> — Building AI-powered SaaS, RAG pipelines & scalable web applications
